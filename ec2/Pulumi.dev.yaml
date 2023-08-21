@@ -1,0 +1,6 @@
+encryptionsalt: v1:sVoj72gBzNY=:v1:/COzim7ohjFuqI34:biUoeKfOUYuFh0k8oq20F2qnqX7DJA==
+config:
+  aws:region: eu-west-2
+  ec2-test:instanceType: t2.micro
+  ec2-test:vpcNetworkCidr: 10.0.0.0/16
+  ec2-test:publicKey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCxeCMRvoRByduuUbDf0tgQMotZ3uUISaSxiZuxu31jUG2yvqGnKJp+Zg30AKAKBAIyWaUSIclwiP59ujy9wSroYEq2mQvuaa0EQYgnHBn/6M5/dEN4oYDhrNmVAawdOhpuTHDSChMu3U7X+3qMF3NIYj0PplR4Vh4KI7Tq+PfP7g1u6KbOFGNGZnJ8Jc8pYpojuHKghxlD7jm9DFPHST5XvxTZULCY2BLfFei0J4pSzy7+07w8epOGQXJvs7NPuvGAtPPVv5P5nue5NwS4Yc5VDRZ0hbmHf263NAIQQh6iDqCo5HK2Wjr13o1SVJh7sLbXHcteh4r+kWQUjp2MdKuP james@absolutejam.co.uk
